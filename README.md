@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=Student%20Hunting%20Game&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Student%20Hunting%20Game&fontSize=32)
 
 
 사용자가 교수님을 이동시켜 학생들을 반복해서 사냥하는 게임이다.
